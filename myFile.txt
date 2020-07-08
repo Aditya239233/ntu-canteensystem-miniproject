@@ -1,0 +1,49 @@
+McDonalds
+Halal certified
+Operating Hours:
+	Mon to Sat: 7am to 12am
+	Sun & public holiday: 10am to 10pm
+Address:
+	North Spine Plaza
+	76 Nanyang Drive
+	N2.1-01-08
+Mc
+Pizza Hut Express
+Operating Hours:
+	Mon to Fri: 11am to 10pm
+	Sat: 11am to 9pm
+	Sun & public holiday: 11am to 8pm
+Address:
+	North Spine Plaza
+	76 Nanyang Drive
+	N2.1-01-04
+Pi
+Bakery Cuisine
+Operating Hours:
+	Mon to Fri: 7am to 9pm
+	Sat, Sun & public holiday: 9am to 7pm
+Address:
+	North Spine Plaza
+	50 Nanyang Drive
+	NS.3- 01- 20
+Ba
+MiniWok
+Operating Hours:
+	Mon to Fri: 7am to 9pm
+	Sat: 7am to 3 pm
+	Sun & public holiday: Closed
+Address:
+	North Spine Plaza
+	76 Nanyang Drive
+	NS2.1- 02- 03/01A
+Mi
+Beverages
+Operating Hours:
+	Mon to Fri: 7am to 9pm
+	Sat: 7am to 3 pm
+	Sun & public holiday: Closed
+Address:
+	North Spine Plaza
+	76 Nanyang Drive
+	S2.1- 02- 03/01A
+Be
